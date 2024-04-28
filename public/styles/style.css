@@ -542,7 +542,7 @@ button:hover{
     border-radius: 0;
   }
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 450px){
 
   .site-img{
     width: 300px;
