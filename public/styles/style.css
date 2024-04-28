@@ -531,6 +531,16 @@ button:hover{
     padding: 0px;
     font-size: 16px;
   }
+    .site-img img{
+    width: 400px;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+    border-radius: 0;
+  }
 
 
 }
