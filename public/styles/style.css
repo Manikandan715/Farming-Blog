@@ -551,6 +551,15 @@ button:hover{
     width: 200px;
     height: 200px;
   }
+    .sites-img{
+    width: 300px;
+  }
+  .sites-img img{
+    width: 300px;
+    height: 400px;
+    margin-left: 0px;
+    padding-left: 10px;
+    border-radius: 0;
 }
 
 
